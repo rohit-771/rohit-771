@@ -1,12 +1,12 @@
 # Hi👋, I'm Rohit Singh
 
-🚀 Frontend Developer | React.js Enthusiast | Problem Solver
+🚀 Frontend Developer | React.js Enthusiast | Open Source Contributor | Problem Solver
 
 ---
 
 ## ✨ About me
 
-I'm a B.Tech Computer Science & AI student passionate about building clean, responsive, and user-friendly web applications. I enjoy learning new technologies, solving problems, and turning ideas into real-world projects.
+I'm a B.Tech Computer Science & AI student passionate about building clean, responsive, and user-friendly web applications. I enjoy learning new technologies, solving problems, contributing to open source, and turning ideas into real-world projects.
 
 ---
 
