@@ -29,6 +29,8 @@ I'm a B.Tech Computer Science & AI student passionate about building clean, resp
 ## 📬 Let's Connect and Build Something Great Together!
 
 ✉️ Email: [rohitsingh991825@gmail.com](mailto:rohitsingh991825@gmail.com)
+
 🔗 LinkedIn: [linkedin.com/in/your-profile](#)
+💻 LeetCode: leetcode.com/u/rohit-98
 
 ---
