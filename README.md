@@ -32,6 +32,6 @@ I'm a B.Tech Computer Science & AI student passionate about building clean, resp
 
 🔗 LinkedIn: https://www.linkedin.com/in/rohit-singh-1486a3379/
 
-💻 LeetCode: leetcode.com/u/rohit-98
+💻 LeetCode: [leetcode.com/u/rohit-98](https://leetcode.com/u/rohit-98/)
 
 ---
