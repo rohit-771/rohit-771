@@ -23,7 +23,7 @@ backend development. Currently working with React.js, Node.js, Express.js, and S
 |---|---|---|---|
 | Python, JavaScript, SQL | HTML, CSS, React.js, Tailwind CSS | Node.js, Express.js | Git, GitHub, VS Code, Vite, Vercel |
 
-**Libraries:** NumPy, Pandas, Recharts
+**Libraries:** NumPy, Pandas
 
 ---
 
