@@ -32,17 +32,14 @@ backend development. Currently working with React.js, Node.js, Express.js, and S
 ### 📊 MindTracker
 React.js productivity tracker with Pomodoro Timer, focus tracking, LocalStorage and analytics.
 
-🔗 [GitHub](YOUR_LINK) | 🌐 [Live Demo](YOUR_LINK)
 
 ### 🛒 E-Commerce Website
 Responsive e-commerce website with product listings and cart functionality.
 
-🔗 [GitHub](YOUR_LINK) | 🌐 [Live Demo](YOUR_LINK)
 
 ### ✅ To-Do List
 Task management web app built with HTML, CSS and JavaScript.
 
-🔗 [GitHub](YOUR_LINK) | 🌐 [Live Demo](YOUR_LINK)
 
 ---
 
