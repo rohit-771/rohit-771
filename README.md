@@ -1,37 +1,68 @@
-# Hi👋, I'm Rohit Singh
+# 👋 Hi, I'm Rohit Singh
 
-🚀 Frontend Developer | React.js Enthusiast | Open Source Contributor | Problem Solver
-
----
-
-## ✨ About me
-
-I'm a B.Tech Computer Science & AI student passionate about building clean, responsive, and user-friendly web applications. I enjoy learning new technologies, solving problems, contributing to open source, and turning ideas into real-world projects.
+🚀 Frontend Developer | Backend Developer in Progress | Open Source Contributor | Problem Solver
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## ✨ About Me
 
-| 🧠 Languages | 🌐 Web Technologies | 🧰 Tools | 📚 Libraries |
+B.Tech CSE & AI student passionate about building responsive web applications and learning
+backend development. Currently working with React.js, Node.js, Express.js, and SQL.
+
+- 🧠 300+ DSA problems solved
+- 🌱 Learning Full-Stack Development
+- 🌍 Open Source Contributor
+- 🏆 GSSoC Participant
+- 💡 Interested in Software Development & AI/ML
+
+---
+
+## 🛠️ Tech Stack
+
+| Languages | Frontend | Backend | Tools |
 |---|---|---|---|
-| Python, JavaScript | HTML, CSS, React.js | Git, GitHub, VS Code, Canva | NumPy, Pandas, Recharts |
+| Python, JavaScript, SQL | HTML, CSS, React.js, Tailwind CSS | Node.js, Express.js | Git, GitHub, VS Code, Vite, Vercel |
+
+**Libraries:** NumPy, Pandas, Recharts
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🚀 Projects
 
-- ✅ Solved 250+ problems on various coding platforms
-- 🏅 Participated in Paranox 2.0 Hackathon
-- 🤖 Attended Be10X AI Tools Workshop
+### 📊 MindTracker
+React.js productivity tracker with Pomodoro Timer, focus tracking, LocalStorage and analytics.
+
+🔗 [GitHub](YOUR_LINK) | 🌐 [Live Demo](YOUR_LINK)
+
+### 🛒 E-Commerce Website
+Responsive e-commerce website with product listings and cart functionality.
+
+🔗 [GitHub](YOUR_LINK) | 🌐 [Live Demo](YOUR_LINK)
+
+### ✅ To-Do List
+Task management web app built with HTML, CSS and JavaScript.
+
+🔗 [GitHub](YOUR_LINK) | 🌐 [Live Demo](YOUR_LINK)
 
 ---
 
-## 📬 Let's Connect and Build Something Great Together!
+## 🏆 Achievements
 
-✉️ Email: [rohitsingh991825@gmail.com](mailto:rohitsingh991825@gmail.com)
-
-🔗 LinkedIn: https://www.linkedin.com/in/rohit-singh-1486a3379/
-
-💻 LeetCode: [leetcode.com/u/rohit-98](https://leetcode.com/u/rohit-98/)
+- 🧠 **300+ DSA Problems Solved**
+- 🏅 **GirlScript Summer of Code (GSSoC)**
+- 🚀 **Paranox 2.0 Hackathon**
+- 🤖 **Be10X AI Tools Workshop**
 
 ---
+
+## 📬 Connect With Me
+
+📧 [Email](mailto:rohitsingh991825@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/rohit-singh-1486a3379/)  
+💻 [GitHub](https://github.com/rohit-771)  
+🧠 [LeetCode](https://leetcode.com/u/rohit-98/)  
+🏆 [Codeforces](https://codeforces.com/profile/rohitsingh991825)
+
+---
+
+### 🚀 Always Learning. Always Building.
