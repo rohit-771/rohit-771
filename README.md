@@ -1,5 +1,8 @@
 <div align="right">
-  <img src="https://www.goforgold.in/_next/image?url=/_next/static/media/GoforGoldNewtonLogo.2ce3455c.png&w=3840&q=75" width="200">
+  <img
+    src="https://raw.githubusercontent.com/rohit-771/rohit-771/main/assets/college-logo-hd.png"
+    width="200"
+  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Rohit Singh</h1>
