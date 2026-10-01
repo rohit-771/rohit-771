@@ -7,8 +7,7 @@
 <hr>
 
 <p align="center">
-  🎓 <b>B.Tech Computer Science & Artificial Intelligence</b> |
-  Newton School of Technology × Rishihood University | 2025–2029
+  🎓 <b>Full-Stack Developer | DSA Enthusiast | Open Source Contributor</b>
 </p>
 
 <p align="center">
@@ -202,22 +201,22 @@ Open Source Contributions
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/rohit-singh-1486a3379/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/rohit-singh-1486a3379/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="mailto:rohitsingh991825@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:rohitsingh991825@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-<a href="https://github.com/rohit-771">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://github.com/rohit-771">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/rohit-98/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 
 </p>
 
 ---
-
-<p align="center">
-  <i>“Building, learning, and improving — one commit at a time.”</i>
-</p>
