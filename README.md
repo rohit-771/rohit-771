@@ -1,48 +1,36 @@
-<div align="center">
+<div align="right">
+  <img src="./assets/college-logo.png" width="200">
+</div>
 
-<h1>Hi 👋, I'm Rohit Singh</h1>
+<h1 align="center">Hi 👋, I'm Rohit Singh</h1>
 
 <hr>
 
-<p>
-  <img src="YOUR_NEWTON_RISHIHOOD_LOGO_URL" width="300">
-</p>
-
-<h3>
-  🎓 B.Tech Computer Science & Artificial Intelligence
-  <br>
+<p align="center">
+  🎓 <b>B.Tech Computer Science & Artificial Intelligence</b> |
   Newton School of Technology × Rishihood University | 2025–2029
-</h3>
-
-<p>
-  <b>Frontend Developer → Full-Stack Developer</b>
 </p>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/rohit-singh-1486a3379/">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-333333?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:rohitsingh991825@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-CONTACT-333333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://github.com/rohit-771">
-    <img src="https://img.shields.io/badge/GITHUB-VISIT-333333?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GITHUB-VISIT-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=rohit-771&label=PROFILE%20VIEWS&color=grey&style=for-the-badge">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohit-771&label=PROFILE%20VIEWS&style=for-the-badge">
 </p>
 
-<hr>
-
-<p>
-  I'm a B.Tech CSE & AI student at <b>Newton School of Technology × Rishihood University</b>,
-  passionate about software development, Data Structures & Algorithms,
-  open source, and building practical web applications.
+<p align="center">
+  I'm a B.Tech CSE & AI student passionate about software development,
+  DSA, open source, and building practical web applications.
 </p>
-
-</div>
 
 
 ---
