@@ -44,6 +44,8 @@
 
 </div>
 
+
+---
 ## 🚀 About Me
 
 * 🎓 B.Tech Computer Science & Artificial Intelligence — **Newton School of Technology**
