@@ -1,54 +1,60 @@
 <div align="center">
 
-# 👋 Hi, I'm Rohit Singh
+<h1>Hi 👋, I'm Rohit Singh</h1>
 
-### 🎓 B.Tech CSE & AI @ Newton School of Technology × Rishihood University | 2029
+<hr>
 
-**Frontend Developer → Full-Stack Developer**
+<p>
+  <img src="YOUR_NEWTON_RISHIHOOD_LOGO_URL" width="300">
+</p>
+
+<h3>
+  🎓 B.Tech Computer Science & Artificial Intelligence
+  <br>
+  Newton School of Technology × Rishihood University | 2025–2029
+</h3>
+
+<p>
+  <b>Frontend Developer → Full-Stack Developer</b>
+</p>
 
 <p>
   <a href="https://www.linkedin.com/in/rohit-singh-1486a3379/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-333333?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:rohitsingh991825@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT-333333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://github.com/rohit-771">
-    <img src="https://img.shields.io/badge/GitHub-Visit-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/rohit-98/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-VISIT-333333?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
----
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rohit-771&label=PROFILE%20VIEWS&color=grey&style=for-the-badge">
+</p>
 
-### 🚀 About Me
+<hr>
 
-I'm a **2nd-year Computer Science & Artificial Intelligence student** at
-**Newton School of Technology × Rishihood University**, graduating in **2029**.
+<p>
+  I'm a B.Tech CSE & AI student at <b>Newton School of Technology × Rishihood University</b>,
+  passionate about software development, Data Structures & Algorithms,
+  open source, and building practical web applications.
+</p>
 
-I'm passionate about building web applications, solving Data Structures & Algorithms
-problems, contributing to open source, and continuously improving my software
-engineering skills.
+</div>
 
-I enjoy turning ideas into practical, user-friendly applications and learning
-how real-world software systems are built.
+## 🚀 About Me
 
----
-
-## 🧑‍💻 About Me
-
-* 🎓 B.Tech Computer Science & Artificial Intelligence — **2025–2029**
+* 🎓 B.Tech Computer Science & Artificial Intelligence — **Newton School of Technology**
 * 💻 Interested in **Software Engineering & Full-Stack Development**
-* 🧠 **300+ DSA Problems Solved**
-* 🌐 **Open Source Contributor**
-* 🚀 **GSSoC Participant**
+* 🧠 **300+ DSA problems** solved
+* 🌐 Open Source Contributor
+* 🚀 GSSoC Participant
 * ⚛️ Building projects with **React.js**
-* 🔧 Working with **Node.js & Express.js**
-* 🗄️ Learning and building with **SQL & REST APIs**
-* 📚 Improving **DSA, Backend Development & CS Fundamentals**
-* 🎯 Goal: Become a strong **Software Engineer**
+* 🔧 Learning and building with **Node.js & Express.js**
+* 📚 Currently improving **DSA, Backend Development & CS Fundamentals**
+* 🎯 Goal: Become a strong Software Engineer
 
 ---
 
@@ -82,9 +88,7 @@ how real-world software systems are built.
 
 ## 💻 Featured Projects
 
-### 📊 MindTracker
-
-**Smart Study Tracker with Distraction Detection**
+### 📊 MindTracker — Smart Study Tracker
 
 A React-based productivity and study tracking application.
 
@@ -94,19 +98,18 @@ A React-based productivity and study tracking application.
 * 🎯 Focus score
 * 🔄 Tab-switch detection
 * ⏱️ Pomodoro timer
-* 📊 Interactive analytics
-* 💾 LocalStorage persistence
+* 📊 Interactive analytics with Recharts
+* 💾 LocalStorage-based data persistence
 * 🌙 Dark mode
 * 📱 Responsive UI
 
-**Tech:** React.js • JavaScript • Recharts • LocalStorage
+**Tech:** React.js • JavaScript • Recharts • LocalStorage • CSS
 
 ---
 
-### 🪙 TradeNest
+### 🪙 TradeNest — Crypto Website
 
-A cryptocurrency-focused frontend project built to practice modern web development,
-responsive UI and JavaScript interactions.
+A responsive cryptocurrency-focused web project built to practice frontend development and interactive UI.
 
 **Tech:** HTML • CSS • JavaScript
 
@@ -114,8 +117,7 @@ responsive UI and JavaScript interactions.
 
 ### 🛒 E-Commerce Website
 
-A responsive e-commerce frontend project built to strengthen HTML, CSS and
-JavaScript fundamentals.
+A frontend e-commerce project built to strengthen fundamentals of responsive layouts, UI development and JavaScript interactions.
 
 **Tech:** HTML • CSS • JavaScript
 
@@ -123,8 +125,7 @@ JavaScript fundamentals.
 
 ### ✅ To-Do List
 
-A productivity application built to practice JavaScript fundamentals,
-DOM manipulation and interactive UI.
+A simple productivity application focused on JavaScript fundamentals, DOM manipulation and user interactions.
 
 **Tech:** HTML • CSS • JavaScript
 
@@ -132,25 +133,22 @@ DOM manipulation and interactive UI.
 
 ## 🧠 DSA & Problem Solving
 
-<div align="center">
-
-### 🔥 300+ Problems Solved
-
-</div>
+> **300+ Data Structures & Algorithms problems solved**
 
 I regularly practice:
 
-`Arrays` `Strings` `Linked Lists` `Stack` `Queue` `Trees`
-`Recursion` `Backtracking` `Searching` `Sorting` `Hashing` `Dynamic Programming`
+* Arrays & Strings
+* Linked Lists
+* Stack & Queue
+* Trees
+* Recursion & Backtracking
+* Searching & Sorting
+* Hashing
+* Basic Dynamic Programming
+* Problem Solving
 
-<p align="center">
-  <a href="https://leetcode.com/u/rohit-98/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://codeforces.com/profile/rohitsingh">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-</p>
+🔗 [LeetCode](https://leetcode.com/u/rohit-98/)
+🔗 [Codeforces](https://codeforces.com/profile/rohitsingh)
 
 ---
 
@@ -159,7 +157,7 @@ I regularly practice:
 * 🌱 Open Source Contributor
 * 🚀 Girlscript Summer of Code (GSSoC) Participant
 * 🔍 Exploring real-world open-source projects
-* 🤝 Learning collaborative development and Git workflows
+* 📚 Learning collaborative development and Git workflows
 
 ---
 
@@ -167,40 +165,46 @@ I regularly practice:
 
 ```text
 Advanced DSA
-     ↓
+      ↓
 Backend Development
-     ↓
+      ↓
 Node.js + Express.js + REST APIs
-     ↓
+      ↓
 SQL & Databases
-     ↓
-Core CS Fundamentals
-     ↓
+      ↓
+CS Fundamentals
+      ↓
 Open Source Contributions
 ```
 
 ---
 
-## 📊 GitHub Activity
+## 🎯 2026–2029 Goals
+
+* 🚀 Become a strong Software Engineer
+* 🧠 Strengthen DSA & problem solving
+* 💻 Build production-quality projects
+* 🌐 Make meaningful open-source contributions
+* 🏢 Gain software engineering internship experience
+* 📚 Master core CS fundamentals
+* ⚡ Continuously improve my development skills
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-771&theme=github-dark&hide_border=true&area=true"
-    width="100%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohit-771&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-771&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🎯 2026 → 2029 Goals
+## 🔥 GitHub Streak
 
-* 🚀 Become a strong Software Engineer
-* 🧠 Master Data Structures & Algorithms
-* 💻 Build production-quality projects
-* 🌐 Make meaningful open-source contributions
-* 🏢 Gain software engineering internship experience
-* 📚 Strengthen core Computer Science fundamentals
-* ⚡ Prepare for top software engineering opportunities
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rohit-771&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -225,9 +229,5 @@ Open Source Contributions
 ---
 
 <p align="center">
-  <i>Building • Learning • Contributing • Improving</i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
+  <i>“Building, learning, and improving — one commit at a time.”</i>
 </p>
