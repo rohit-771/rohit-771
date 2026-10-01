@@ -1,26 +1,54 @@
+<div align="center">
+
 # 👋 Hi, I'm Rohit Singh
 
-### 💻 B.Tech CSE & AI @ Newton School of Technology | 2029
+### 🎓 B.Tech CSE & AI @ Newton School of Technology × Rishihood University | 2029
 
 **Frontend Developer → Full-Stack Developer**
 
-I’m a 2nd-year Computer Science & Artificial Intelligence student passionate about building web applications, solving Data Structures & Algorithms problems, and contributing to open source.
-
-I enjoy turning ideas into practical, user-friendly applications and continuously improving my software engineering skills.
+<p>
+  <a href="https://www.linkedin.com/in/rohit-singh-1486a3379/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rohitsingh991825@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/rohit-771">
+    <img src="https://img.shields.io/badge/GitHub-Visit-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/rohit-98/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-* 🎓 B.Tech Computer Science & Artificial Intelligence — **Newton School of Technology**
+I'm a **2nd-year Computer Science & Artificial Intelligence student** at
+**Newton School of Technology × Rishihood University**, graduating in **2029**.
+
+I'm passionate about building web applications, solving Data Structures & Algorithms
+problems, contributing to open source, and continuously improving my software
+engineering skills.
+
+I enjoy turning ideas into practical, user-friendly applications and learning
+how real-world software systems are built.
+
+---
+
+## 🧑‍💻 About Me
+
+* 🎓 B.Tech Computer Science & Artificial Intelligence — **2025–2029**
 * 💻 Interested in **Software Engineering & Full-Stack Development**
-* 🧠 **300+ DSA problems** solved
-* 🌐 Open Source Contributor
-* 🚀 GSSoC Participant
+* 🧠 **300+ DSA Problems Solved**
+* 🌐 **Open Source Contributor**
+* 🚀 **GSSoC Participant**
 * ⚛️ Building projects with **React.js**
-* 🔧 Learning and building with **Node.js & Express.js**
-* 📚 Currently improving **DSA, Backend Development & CS Fundamentals**
-* 🎯 Goal: Become a strong Software Engineer
+* 🔧 Working with **Node.js & Express.js**
+* 🗄️ Learning and building with **SQL & REST APIs**
+* 📚 Improving **DSA, Backend Development & CS Fundamentals**
+* 🎯 Goal: Become a strong **Software Engineer**
 
 ---
 
@@ -54,7 +82,9 @@ I enjoy turning ideas into practical, user-friendly applications and continuousl
 
 ## 💻 Featured Projects
 
-### 📊 MindTracker — Smart Study Tracker
+### 📊 MindTracker
+
+**Smart Study Tracker with Distraction Detection**
 
 A React-based productivity and study tracking application.
 
@@ -64,18 +94,19 @@ A React-based productivity and study tracking application.
 * 🎯 Focus score
 * 🔄 Tab-switch detection
 * ⏱️ Pomodoro timer
-* 📊 Interactive analytics with Recharts
-* 💾 LocalStorage-based data persistence
+* 📊 Interactive analytics
+* 💾 LocalStorage persistence
 * 🌙 Dark mode
 * 📱 Responsive UI
 
-**Tech:** React.js • JavaScript • Recharts • LocalStorage • CSS
+**Tech:** React.js • JavaScript • Recharts • LocalStorage
 
 ---
 
-### 🪙 TradeNest — Crypto Website
+### 🪙 TradeNest
 
-A responsive cryptocurrency-focused web project built to practice frontend development and interactive UI.
+A cryptocurrency-focused frontend project built to practice modern web development,
+responsive UI and JavaScript interactions.
 
 **Tech:** HTML • CSS • JavaScript
 
@@ -83,7 +114,8 @@ A responsive cryptocurrency-focused web project built to practice frontend devel
 
 ### 🛒 E-Commerce Website
 
-A frontend e-commerce project built to strengthen fundamentals of responsive layouts, UI development and JavaScript interactions.
+A responsive e-commerce frontend project built to strengthen HTML, CSS and
+JavaScript fundamentals.
 
 **Tech:** HTML • CSS • JavaScript
 
@@ -91,7 +123,8 @@ A frontend e-commerce project built to strengthen fundamentals of responsive lay
 
 ### ✅ To-Do List
 
-A simple productivity application focused on JavaScript fundamentals, DOM manipulation and user interactions.
+A productivity application built to practice JavaScript fundamentals,
+DOM manipulation and interactive UI.
 
 **Tech:** HTML • CSS • JavaScript
 
@@ -99,22 +132,25 @@ A simple productivity application focused on JavaScript fundamentals, DOM manipu
 
 ## 🧠 DSA & Problem Solving
 
-> **300+ Data Structures & Algorithms problems solved**
+<div align="center">
+
+### 🔥 300+ Problems Solved
+
+</div>
 
 I regularly practice:
 
-* Arrays & Strings
-* Linked Lists
-* Stack & Queue
-* Trees
-* Recursion & Backtracking
-* Searching & Sorting
-* Hashing
-* Basic Dynamic Programming
-* Problem Solving
+`Arrays` `Strings` `Linked Lists` `Stack` `Queue` `Trees`
+`Recursion` `Backtracking` `Searching` `Sorting` `Hashing` `Dynamic Programming`
 
-🔗 [LeetCode](https://leetcode.com/u/rohit-98/)
-🔗 [Codeforces](https://codeforces.com/profile/rohitsingh)
+<p align="center">
+  <a href="https://leetcode.com/u/rohit-98/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/rohitsingh">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -123,7 +159,7 @@ I regularly practice:
 * 🌱 Open Source Contributor
 * 🚀 Girlscript Summer of Code (GSSoC) Participant
 * 🔍 Exploring real-world open-source projects
-* 📚 Learning collaborative development and Git workflows
+* 🤝 Learning collaborative development and Git workflows
 
 ---
 
@@ -131,46 +167,40 @@ I regularly practice:
 
 ```text
 Advanced DSA
-      ↓
+     ↓
 Backend Development
-      ↓
+     ↓
 Node.js + Express.js + REST APIs
-      ↓
+     ↓
 SQL & Databases
-      ↓
-CS Fundamentals
-      ↓
+     ↓
+Core CS Fundamentals
+     ↓
 Open Source Contributions
 ```
 
 ---
 
-## 🎯 2026–2029 Goals
+## 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-771&theme=github-dark&hide_border=true&area=true"
+    width="100%"
+  />
+</p>
+
+---
+
+## 🎯 2026 → 2029 Goals
 
 * 🚀 Become a strong Software Engineer
-* 🧠 Strengthen DSA & problem solving
+* 🧠 Master Data Structures & Algorithms
 * 💻 Build production-quality projects
 * 🌐 Make meaningful open-source contributions
 * 🏢 Gain software engineering internship experience
-* 📚 Master core CS fundamentals
-* ⚡ Continuously improve my development skills
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit-771&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-771&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rohit-771&theme=tokyonight&hide_border=true" />
-</p>
+* 📚 Strengthen core Computer Science fundamentals
+* ⚡ Prepare for top software engineering opportunities
 
 ---
 
@@ -195,5 +225,9 @@ Open Source Contributions
 ---
 
 <p align="center">
-  <i>“Building, learning, and improving — one commit at a time.”</i>
+  <i>Building • Learning • Contributing • Improving</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
 </p>
