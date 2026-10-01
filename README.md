@@ -1,8 +1,5 @@
 <div align="right">
-  <img
-    src="https://raw.githubusercontent.com/rohit-771/rohit-771/main/assets/college-logo-hd.png"
-    width="200"
-  />
+  <img src="https://raw.githubusercontent.com/rohit-771/rohit-771/refs/heads/main/NST%20RU%20Banner.png" width="200">
 </div>
 
 <h1 align="center">Hi 👋, I'm Rohit Singh</h1>
