@@ -176,18 +176,6 @@ Open Source Contributions
 
 ---
 
-## 🎯 2026–2029 Goals
-
-* 🚀 Become a strong Software Engineer
-* 🧠 Strengthen DSA & problem solving
-* 💻 Build production-quality projects
-* 🌐 Make meaningful open-source contributions
-* 🏢 Gain software engineering internship experience
-* 📚 Master core CS fundamentals
-* ⚡ Continuously improve my development skills
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
